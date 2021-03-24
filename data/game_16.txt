@@ -1,0 +1,474 @@
+Empires Game Round 16
+Erik
+Ryan
+Eric
+Colin
+Tait
+0.	Epoch 1 - 3000BC - Dawn of History
+1.	Eric was dealt The Shang Dynasty and gave it to Tait.
+2.	Erik was dealt The Indus Valley Civilization and kept it.
+3.	Tait was dealt Sumeria and gave it to Eric.
+4.	Ryan was dealt The Minoans and gave it to Colin.
+5.	Colin was dealt Babylonia and gave it to Ryan.
+6.	Eric plays Sumeria with the Minor Empire: Hittites card and the Civil Service card.
+7.	The Hittites have appeared in East Anatolia
+8.	Hittites expand into Western Anatolia
+9.	Sumeria has appeared in Lower Tigris
+10.	Sumerians expand into Zagros
+11.	Sumerians expand into Persian Salt Desert
+12.	Sumerians expand into Hindu Kush
+13.	Sumeria has built no monuments.
+14.	Eric scored 11 pts this epoch. Total: 11
+16.	Colin plays The Minoans.
+17.	The Minoans have appeared in Crete
+18.	Minoans expand into Palestine
+19.	Minoans expand into Shatts Plateau
+20.	The Minoans have built no monuments.
+21.	Colin scored 6 pts this epoch. Total: 6
+23.	Erik plays The Indus Valley Civilization with the Kingdom: Canaanites card.
+24.	The Kingdom of Canaan has appeared in Palestine.
+25.	The Indus Valley Civilization has appeared in Lower Indus
+26.	IVC expand into Western Deccan
+27.	IVC expand into Western Ghats
+28.	The Indus Valley Civilization has built no monuments.
+29.	Erik scored 7 pts this epoch. Total: 7
+31.	Ryan plays Babylonia.
+32.	Babylonia has appeared in Middle Tigris
+33.	The Babylonians defeated the Sumerians and occupied Zagros
+34.	Babylonians expand into Upper Tigris
+35.	Babylonians expand into Levant
+36.	Babylonia has built a monument at Middle Tigris
+37.	Ryan scored 5 pts this epoch. Total: 5
+39.	Tait plays The Shang Dynasty.
+40.	The Shang Dynasty has appeared in Yellow River
+41.	Shang expand into Great Plain of China
+42.	Shang expand into Wei River
+43.	The Shang Dynasty has built no monuments.
+44.	Tait scored 5 pts this epoch. Total: 5
+46.	Tait was dealt The Scythians and gave it to Erik.
+47.	Ryan was dealt The Chou Dynasty and gave it to Eric.
+48.	Colin was dealt The Greek City States and kept it.
+49.	Erik was dealt Persia and gave it to Tait.
+50.	Eric was dealt The Vedic City States and gave it to Ryan.
+51.	Eric plays The Chou Dynasty.
+52.	The Chou Dynasty has appeared in Wei River
+53.	The Chou defeated the Shang and occupied Yellow River
+54.	Chou expand into Tarim Basin
+55.	The Chou Dynasty has built no monuments.
+56.	Eric scored 16 pts this epoch. Total: 27
+58.	Ryan plays The Vedic City States with the Treachery card.
+59.	The Vedic City States have appeared in Upper Indus
+60.	Hindu Kush was chosen for treachery.
+61.	Hindu Kush has fallen to treachery by Vedic
+62.	The Vedic were defeated in Lower Indus by the IVC
+63.	The Vedic defeated the IVC and occupied Lower Indus
+64.	The Vedic were defeated in Western Deccan by the IVC
+65.	The Vedic City States have built no monuments.
+66.	Ryan scored 13 pts this epoch. Total: 18
+68.	Colin plays The Greek City States.
+69.	The Greek City States have appeared in Morea
+70.	Greeks expand into Southern Iberia
+71.	Greeks expand into Southern Italia
+72.	Greeks expand into Nile Delta
+73.	The Greeks were defeated in Levant by the Babylonians
+74.	The Greeks and the Babylonians destroyed each other in Levant
+75.	The Greek City States have built a monument at Morea
+76.	Colin scored 18 pts this epoch. Total: 24
+78.	Erik plays The Scythians with the Population Explosion card.
+79.	The Scythians have appeared in Caucasus
+80.	Scythians expand into Dnieper
+81.	Scythians expand into Central Europe
+82.	Scythians expand into Northern Gaul
+83.	Scythians expand into Albion
+84.	Scythians expand into Highlands
+85.	Scythians expand into Eire
+86.	The Scythians have built a monument at Albion
+87.	Erik scored 7 pts this epoch. Total: 14
+89.	Tait plays Persia with the Leader card.
+90.	Persia has appeared in Persian Plateau
+91.	The Persians were defeated in Zagros by the Babylonians
+92.	The Persians defeated the Babylonians and occupied Zagros
+93.	The Persians and the Sumerians destroyed each other in Persian Salt Desert
+94.	The Persians defeated the Babylonians and occupied Upper Tigris
+95.	The Persians defeated the Greeks and occupied Levant
+96.	The Persians defeated the Canaanites and occupied Palestine
+97.	The Persians and the Minoans destroyed each other in Crete
+98.	The Persians defeated the Greeks and occupied Morea
+99.	Persia has built a monument at Persian Plateau
+100.	Tait scored 17 pts this epoch. Total: 22
+102.	Erik was dealt The Celts and gave it to Eric.
+103.	Ryan was dealt The Romans and kept it.
+104.	Tait was dealt The Han Dynasty and kept it.
+105.	Colin was dealt Macedonia and kept it.
+106.	Eric was dealt The Hsiung-Nu and gave it to Erik.
+107.	Eric plays The Celts with the Jihad card.
+108.	The Celts have appeared in Central Europe
+109.	The Celts defeated the Scythians and occupied Northern Gaul
+110.	The Celts were defeated in Albion by the Scythians
+111.	The Celts defeated the Scythians.
+112.	The Celts defeated the Scythians and occupied Albion
+113.	The Celts defeated the Scythians and occupied Highlands
+114.	Celts expand into Massif
+115.	The Celts have built a monument at Central Europe
+116.	Eric scored 23 pts this epoch. Total: 50
+118.	Colin plays Macedonia with the Civil War card and the Migrants: North America card.
+119.	The Rebel Persians and the Persians destroyed each other in Zagros
+120.	The Rebel Persians defeated the Persians and occupied Persian Salt Desert
+121.	The Rebel Persians were defeated in Persian Plateau by the Persians
+122.	Migrants appear in Pacific Seaboard and Mexican Valley
+123.	Macedonia has appeared in Pindus
+124.	Macedonians expand into Danubia
+125.	The Macedonians were defeated in Levant by the Persians
+126.	The Macedonians were defeated in Levant by the Persians
+127.	The Macedonians and the Persians destroyed each other in Levant
+128.	The Macedonians defeated the Persians and occupied Upper Tigris
+129.	Macedonians expand into Zagros
+130.	The Macedonians defeated the Babylonians and occupied Middle Tigris
+131.	The Macedonians defeated the Persians and occupied Persian Plateau
+132.	Persian Salt Desert was absorbed into the Macedonians
+133.	The Macedonians and the Vedic destroyed each other in Lower Indus
+134.	The Macedonians were defeated in Western Deccan by the IVC
+135.	Macedonia has built a monument at Pindus
+136.	Colin scored 28 pts this epoch. Total: 52
+138.	Tait plays The Han Dynasty with the Astronomy card and the Siegecraft card.
+139.	The Han Dynasty has appeared in Great Plain of China
+140.	Astronomy: A fleet appeared in Bay Of Bengal.
+141.	Han expand into Chekiang
+142.	Han expand into Malayan Peninsula
+143.	Han expand into East Indies
+144.	Han expand into Eastern Ghats
+145.	Han expand into Ceylon
+146.	The Han defeated the Chou.
+147.	The Han were defeated in Yellow River by the Chou
+148.	The Han defeated the Chou and occupied Yellow River
+149.	The Han defeated the Chou.
+150.	The Han were defeated in Wei River by the Chou
+151.	The Han defeated the Chou and occupied Wei River
+152.	The Han Dynasty has built a monument at Great Plain of China
+153.	Tait scored 25 pts this epoch. Total: 47
+155.	Erik plays The Hsiung-Nu.
+156.	The Hsiung-Nu has appeared in Mongolia
+157.	Xiongnu expand into Manchurian Plain
+158.	Xiongnu expand into Korean Peninsula
+159.	Xiongnu expand into Honshu
+160.	The Hsiung-Nu has built no monuments.
+161.	Erik scored 4 pts this epoch. Total: 18
+163.	Ryan plays The Romans with the Leader card and the Siegecraft card.
+164.	The Romans have appeared in Southern Italia
+165.	Romans expand into Northern Italia
+166.	Romans expand into Dalmatia
+167.	Romans expand into Balkans
+168.	Romans expand into Libya
+169.	The Romans defeated the Greeks and occupied Nile Delta
+170.	Romans expand into Nubia
+171.	Romans expand into Upper Nile
+172.	The Romans defeated the Minoans and occupied Shatts Plateau
+173.	Romans expand into Pyrenees
+174.	The Romans defeated the Greeks and occupied Southern Iberia
+175.	The Romans defeated the Celts and occupied Central Europe
+176.	The Romans defeated the Macedonians and occupied Pindus
+177.	The Romans defeated the Persians and occupied Morea
+178.	The Romans and the Persians destroyed each other in Crete
+179.	The Romans and the Persians destroyed each other in Crete
+180.	The Romans defeated the Celts and occupied Massif
+181.	Romans expand into Arabian Peninsula
+182.	Romans expand into Western Iberia
+183.	The Romans have built a monument at Southern Italia and a monument at Crete
+184.	Ryan scored 34 pts this epoch. Total: 52
+186.	Erik was dealt The Goths and gave it to Colin.
+187.	Tait was dealt The Khmers and gave it to Ryan.
+188.	Eric was dealt The Arabs and kept it.
+189.	Colin was dealt The Guptas and gave it to Erik.
+190.	Ryan was dealt The T'ang Dynasty and gave it to Tait.
+191.	Erik plays The Guptas with the Civil Service card and the Engineering card.
+192.	The Guptas have appeared in Eastern Deccan
+193.	Guptas expand into Sumatra
+194.	The Guptas defeated the Han and occupied Eastern Ghats
+195.	The Guptas defeated the Han and occupied East Indies
+196.	The Guptas defeated the Han and occupied Malayan Peninsula
+197.	Guptas expand into Mekong
+198.	Guptas expand into Si Kiang
+199.	Guptas expand into Irawaddy
+200.	The Guptas have built a monument at Eastern Deccan
+201.	Erik scored 20 pts this epoch. Total: 38
+203.	Colin plays The Goths with the Pestilence card and the Jewish Revolt card.
+204.	Pestilence struck Pindus
+205.	The Jewish Uprising and the Persians destroyed each other in Palestine
+206.	The Goths have appeared in Danubia
+207.	The Goths were defeated in Dalmatia by the Romans
+208.	The Goths defeated the Romans and occupied Dalmatia
+209.	The Goths and the Romans destroyed each other in Pindus
+210.	Goths expand into Morea
+211.	The Goths defeated the Romans and occupied Crete
+212.	The Goths were defeated in Shatts Plateau by the Romans
+213.	The Goths were defeated in Shatts Plateau by the Romans
+214.	The Goths and the Romans destroyed each other in Shatts Plateau
+215.	The Goths have built no monuments.
+216.	Colin scored 24 pts this epoch. Total: 76
+218.	Tait plays The T'ang Dynasty with the Allies card and the Leader card.
+219.	The T'ang Dynasty has appeared in Yangtze Kiang
+220.	The T'ang and the Guptas destroyed each other in Si Kiang
+221.	The T'ang were defeated in Si Kiang by the Guptas
+222.	The T'ang were defeated in Si Kiang by the Guptas
+223.	The T'ang and the Guptas destroyed each other in Si Kiang
+224.	The T'ang and the Guptas destroyed each other in Malayan Peninsula
+225.	Wei River was absorbed into the T'ang
+226.	The T'ang defeated the Chou.
+227.	The T'ang defeated the Chou and occupied Tarim Basin
+228.	The T'ang Dynasty has built a monument at Yangtze Kiang
+229.	Tait scored 21 pts this epoch. Total: 68
+231.	Eric plays The Arabs with the Kingdom: Tiahuanaco card and the Migrants: Australia card.
+232.	The Kingdom of Tiahuanaco has appeared in Southern Andes.
+233.	Migrants appear in Australia and New Zealand
+234.	The Arabs have appeared in Arabian Peninsula
+235.	The Arabs were defeated in Nile Delta by the Romans
+236.	The Arabs were defeated in Nile Delta by the Romans
+237.	The Arabs defeated the Romans and occupied Nile Delta
+238.	The Arabs defeated the Romans and occupied Libya
+239.	Arabs expand into Shatts Plateau
+240.	The Arabs were defeated in Southern Iberia by the Romans
+241.	The Arabs and the Romans destroyed each other in Southern Iberia
+242.	The Arabs defeated the Romans and occupied Pyrenees
+243.	The Arabs defeated the Romans and occupied Massif
+244.	The Arabs defeated the Romans and occupied Northern Italia
+245.	The Arabs defeated the Romans and occupied Southern Italia
+246.	The Arabs defeated the Goths and occupied Dalmatia
+247.	The Arabs defeated the Goths and occupied Pindus
+248.	The Arabs have built a monument at Arabian Peninsula
+249.	Eric scored 29 pts this epoch. Total: 79
+251.	Ryan plays The Khmers with the Barbarians card and the Elite Troops card.
+252.	Barbarians have appeared in Syrian Desert
+253.	The Barbarians defeated the Arabs and occupied Arabian Peninsula
+254.	The Barbarians defeated the Macedonians and occupied Middle Tigris
+255.	The Barbarians defeated the Macedonians and occupied Upper Tigris
+256.	The Barbarians were defeated in Levant by the Macedonians
+257.	The Khmers have appeared in Mekong
+258.	Khmers expand into Szechaun
+259.	The Khmers defeated the T'ang.
+260.	The Khmers defeated the T'ang and occupied Yangtze Kiang
+261.	The Khmers were defeated in Great Plain of China by the Han
+262.	The Khmers were defeated in Great Plain of China by the Han
+263.	The Khmers have built no monuments.
+264.	Ryan scored 28 pts this epoch. Total: 80
+266.	Erik was dealt The Holy Roman Empire and gave it to Ryan.
+267.	Tait was dealt The Mongols and kept it.
+268.	Colin was dealt The Sung Dynasty and kept it.
+269.	Eric was dealt The Franks and gave it to Erik.
+270.	Ryan was dealt The Vikings and gave it to Eric.
+271.	Erik plays The Franks with the Disaster card and the Weaponry card.
+272.	Volcano erupts in Yangtze Kiang. Earthquake strikes Great Plain of China
+273.	The Franks have appeared in Northern Gaul
+274.	Franks expand into Western Gaul
+275.	The Franks and the Arabs destroyed each other in Massif
+276.	The Franks were defeated in Northern Italia by the Arabs
+277.	The Franks defeated the Arabs and occupied Northern Italia
+278.	The Franks defeated the Arabs and occupied Southern Italia
+279.	The Franks were defeated in Dalmatia by the Arabs
+280.	The Franks and the Arabs destroyed each other in Dalmatia
+281.	The Franks have built no monuments.
+282.	Erik scored 28 pts this epoch. Total: 66
+284.	Eric plays The Vikings with the Disaster card.
+285.	Volcano erupts in Middle Tigris. Earthquake strikes Crete
+286.	The Vikings have appeared in Scandinavia
+287.	Vikings expand into Lower Rhine
+288.	The Vikings and the Franks destroyed each other in Northern Gaul
+289.	Vikings expand into Great Lakes
+290.	Vikings expand into Great Plains
+291.	The Vikings were defeated in Pacific Seaboard by the Native Americans
+292.	The Vikings have built no monuments.
+293.	Eric scored 25 pts this epoch. Total: 104
+295.	Ryan plays The Holy Roman Empire with the Allies card and the Expert Troops: Mountains card.
+296.	The Holy Roman Empire has appeared in Central Europe
+297.	Germanic-Europeans expand into Dalmatia
+298.	Germanic-Europeans expand into Baltic Seaboard
+299.	The Germanic-Europeans were defeated in Northern Gaul by the Vikings
+300.	The Germanic-Europeans and the Vikings destroyed each other in Northern Gaul
+301.	The Germanic-Europeans defeated the Celts.
+302.	The Germanic-Europeans were defeated in Albion by the Celts
+303.	The Germanic-Europeans were defeated in Albion by the Celts
+304.	The Germanic-Europeans defeated the Celts and occupied Albion
+305.	The Germanic-Europeans and the Arabs destroyed each other in Pindus
+306.	The Holy Roman Empire has built a monument at Northern Gaul
+307.	Ryan scored 33 pts this epoch. Total: 113
+309.	Colin plays The Sung Dynasty with the Kingdom: Mali card and the Minor Empire: Fujiwara card.
+310.	The Kingdom of Mali has appeared in Gold Coast.
+311.	Fujiwara has appeared in Hokaido
+312.	The Fujiwarans defeated the Xiongnu and occupied Korean Peninsula
+313.	The Fujiwarans were defeated in Honshu by the Xiongnu
+314.	The Sung Dynasty has appeared in Szechaun
+315.	The Sung defeated the Khmers and occupied Yangtze Kiang
+316.	The Sung and the Han destroyed each other in Chekiang
+317.	The Sung defeated the Khmers and occupied Mekong
+318.	The Sung and the T'ang destroyed each other in Malayan Peninsula
+319.	The Sung and the Guptas destroyed each other in Irawaddy
+320.	The Sung Dynasty has built a monument at Szechaun
+321.	Colin scored 35 pts this epoch. Total: 111
+323.	Tait plays The Mongols with the Famine card and the Leader card.
+324.	Famine has struck Southern Europe
+325.	The Mongols have appeared in Mongolia
+326.	Mongols expand into Eastern Steppe
+327.	Mongols expand into Western Steppe
+328.	The Mongols defeated the Scythians and occupied Dnieper
+329.	The Mongols defeated the Germanic-Europeans and occupied Central Europe
+330.	The Mongols were defeated in Northern Gaul by the Germanic-Europeans
+331.	The Mongols were defeated in Northern Gaul by the Germanic-Europeans
+332.	The Mongols defeated the Germanic-Europeans and occupied Northern Gaul
+333.	The Mongols were defeated in Albion by the Germanic-Europeans
+334.	The Mongols and the Germanic-Europeans destroyed each other in Albion
+335.	The Mongols defeated the Goths and occupied Danubia
+336.	The Mongols defeated the Romans and occupied Balkans
+337.	Mongols expand into Pindus
+338.	The Mongols defeated the Goths and occupied Morea
+339.	The Mongols defeated the Goths and occupied Crete
+340.	The Mongols have built a monument at Mongolia
+341.	Tait scored 31 pts this epoch. Total: 99
+343.	Erik was dealt The Ming Dynasty and gave it to Ryan.
+344.	Tait was dealt Portugal and kept it.
+345.	Eric was dealt The Mughals and kept it.
+346.	Colin was dealt The Timurid Emirates and gave it to Erik.
+347.	Ryan was dealt Spain and gave it to Colin.
+348.	Ryan plays The Ming Dynasty with the Kingdom: Thai card and the Leader card.
+349.	The Kingdom of Thai has appeared in Malayan Peninsula.
+350.	The Ming Dynasty has appeared in Chekiang
+351.	The Ming and the T'ang destroyed each other in Si Kiang
+352.	The Ming were defeated in Szechaun by the Sung
+353.	The Ming defeated the Sung and occupied Szechaun
+354.	The Ming defeated the Sung and occupied Irawaddy
+355.	The Ming and the Han destroyed each other in Great Plain of China
+356.	Malayan Peninsula was absorbed into the Ming
+357.	The Ming Dynasty has built a monument at Chekiang
+358.	Ryan scored 32 pts this epoch. Total: 145
+360.	Erik plays The Timurid Emirates with the Leader card and the Weaponry card.
+361.	The Timurid Emirates have appeared in Turanian Plain
+362.	The Timurids defeated the T'ang and occupied Tarim Basin
+363.	The Timurids defeated the Macedonians and occupied Persian Plateau
+364.	The Timurids defeated the Macedonians and occupied Zagros
+365.	The Timurids defeated the Hittites.
+366.	The Timurids and the Hittites destroyed each other in East Anatolia
+367.	The Timurids defeated the Hittites and occupied Western Anatolia
+368.	The Timurids were defeated in Balkans by the Mongols
+369.	The Timurid Emirates have built a monument at Turanian Plain
+370.	Erik scored 33 pts this epoch. Total: 99
+372.	Tait plays Portugal with the Expert Troops: Straits card.
+373.	Portugal has appeared in Western Iberia
+374.	Portugese expand into Congo Basin
+375.	Portugese expand into Southern Africa
+376.	Portugese expand into Guiana Highlands
+377.	Portugese expand into Northern Andes
+378.	The Portugese defeated the Tiwanaku and occupied Southern Andes
+379.	The Portugese defeated the Native Americans and occupied Mexican Valley
+380.	The Portugese and the Native Americans destroyed each other in Pacific Seaboard
+381.	Portugal has built a monument at Western Iberia
+382.	Tait scored 41 pts this epoch. Total: 140
+384.	Colin plays Spain with the Crusade card and the Minor Empire: Safavids card.
+385.	Crusaders have appeared in Eastern Mediterranean
+386.	Crusaders expand into Palestine
+387.	The Crusaders were defeated in Nile Delta by the Arabs
+388.	The Crusaders defeated the Arabs and occupied Nile Delta
+389.	The Safavids have appeared in Persian Salt Desert
+390.	The Safavids and the Timurids destroyed each other in Persian Plateau
+391.	Spain has appeared in Pyrenees
+392.	The Spaniards defeated the Portugese and occupied Western Iberia
+393.	Spaniards expand into Deep South
+394.	Spaniards expand into Pacific Seaboard
+395.	Spaniards expand into Brazil
+396.	Spaniards expand into New Guinea
+397.	The Spaniards defeated the Mongols and occupied Albion
+398.	Spaniards expand into West Indies
+399.	Spain has built a monument at Pyrenees
+400.	Colin scored 42 pts this epoch. Total: 153
+402.	Eric plays The Mughals with the Plague card and the Migrants: Africa card.
+403.	Plague has struck Lower Indus
+404.	Migrants appear in East Africa and Madagascar
+405.	The Mughals have appeared in Ganges Valley
+406.	Mughals expand into Ganges Delta
+407.	The Mughals were defeated in Irawaddy by the Ming
+408.	The Mughals were defeated in Irawaddy by the Ming
+409.	The Mughals were defeated in Irawaddy by the Ming
+410.	The Mughals were defeated in Irawaddy by the Ming
+411.	The Mughals were defeated in Irawaddy by the Ming
+412.	The Mughals were defeated in Irawaddy by the Ming
+413.	The Mughals were defeated in Irawaddy by the Ming
+414.	The Mughals were defeated in Irawaddy by the Ming
+415.	The Mughals have built no monuments.
+416.	Eric scored 19 pts this epoch. Total: 123
+423.	Colin plays Russia with the Civil War card and the Minor Empire: Japan card.
+424.	The Rebel Ming defeated the Ming and occupied Si Kiang
+425.	The Rebel Ming defeated the Ming and occupied Chekiang
+426.	The Rebel Ming defeated the Ming and occupied Great Plain of China
+427.	Japan has appeared in Honshu
+428.	The Japanese and the Xiongnu destroyed each other in Manchurian Plain
+429.	The Japanese defeated the Mongols and occupied Mongolia
+430.	The Japanese were defeated in Eastern Steppe by the Mongols
+431.	Russia has appeared in Northern European Plain
+432.	The Russians were defeated in Baltic Seaboard by the Germanic-Europeans
+433.	The Russians were defeated in Baltic Seaboard by the Germanic-Europeans
+434.	The Russians were defeated in Baltic Seaboard by the Germanic-Europeans
+435.	The Russians were defeated in Baltic Seaboard by the Germanic-Europeans
+436.	The Russians defeated the Germanic-Europeans and occupied Baltic Seaboard
+437.	The Russians were defeated in Central Europe by the Mongols
+438.	The Russians and the Mongols destroyed each other in Central Europe
+439.	The Russians were defeated in Lower Rhine by the Vikings
+440.	Russia has built no monuments.
+441.	Colin scored 64 pts this epoch. Total: 217
+443.	Tait plays The Manchu Dynasty with the Elite Troops card.
+444.	The Manchu Dynasty has appeared in Manchurian Plain
+445.	The Manchu were defeated in Korean Peninsula by the Fujiwarans
+446.	The Manchu and the Fujiwarans destroyed each other in Korean Peninsula
+447.	The Manchu defeated the Japanese and occupied Honshu
+448.	The Manchu defeated the Fujiwarans and occupied Hokaido
+449.	The Manchu and the Ming destroyed each other in Great Plain of China
+450.	The Manchu were defeated in Chekiang by the Ming
+451.	The Manchu were defeated in Chekiang by the Ming
+452.	The Manchu defeated the Ming and occupied Chekiang
+453.	The Manchu Dynasty has built a monument at Manchurian Plain
+454.	Tait scored 47 pts this epoch. Total: 187
+456.	Eric plays Netherlands with the Reallocation card and the Weaponry card.
+457.	Netherlands have appeared in Lower Rhine
+458.	Reallocation: Fleets cashed in: Bay Of Bengal & Black Sea & E Med. & Carribean Sea & W Med & Red Sea.
+459.	The Dutch were defeated in Central Europe by the Russians
+460.	The Dutch defeated the Russians and occupied Central Europe
+461.	Dutch expand into Appalachia
+462.	The Dutch were defeated in Deep South by the Spaniards
+463.	The Dutch defeated the Spaniards and occupied Deep South
+464.	The Dutch and the Portugese destroyed each other in Southern Africa
+465.	Dutch expand into Patagonia
+466.	Netherlands have built a monument at Lower Rhine
+467.	Eric scored 39 pts this epoch. Total: 162
+469.	Ryan plays France with the Reallocation card.
+470.	France has appeared in Western Gaul
+471.	Reallocation: Fleets cashed in: N Atlantic & S China Sea & Red Sea & Black Sea & E Med. & W Med & Sea Of Japan & Bay Of Bengal.
+472.	French expand into Central America
+473.	The French were defeated in Manchurian Plain by the Manchu
+474.	The French were defeated in Manchurian Plain by the Manchu
+475.	The French were defeated in Manchurian Plain by the Manchu
+476.	The French and the Manchu destroyed each other in Manchurian Plain
+477.	The French were defeated in Lower Rhine by the Dutch
+478.	The French were defeated in Lower Rhine by the Dutch
+479.	The French were defeated in Lower Rhine by the Dutch
+480.	The French were defeated in Lower Rhine by the Dutch
+481.	The French were defeated in Lower Rhine by the Dutch
+482.	The French were defeated in Lower Rhine by the Dutch
+483.	The French were defeated in Lower Rhine by the Dutch
+484.	The French were defeated in Lower Rhine by the Dutch
+485.	The French were defeated in Lower Rhine by the Dutch
+486.	The French were defeated in Lower Rhine by the Dutch
+487.	The French were defeated in Lower Rhine by the Dutch
+488.	The French were defeated in Lower Rhine by the Dutch
+489.	France has built no monuments.
+490.	Ryan scored 33 pts this epoch. Total: 178
+492.	Erik plays The United States with the Kingdom: Zimbabwe card and the Naval Power card.
+493.	The Kingdom of Zimbabwe has appeared in East Africa.
+494.	The United States have appeared in Appalachia
+495.	The Americans defeated the Vikings and occupied Great Lakes
+496.	The Americans defeated the Vikings and occupied Great Plains
+497.	The Americans defeated the Dutch.
+498.	The Americans were defeated in Deep South by the Dutch
+499.	The Americans defeated the Dutch and occupied Deep South
+500.	The Americans and the Portugese destroyed each other in Mexican Valley
+501.	The Americans defeated the Spaniards.
+502.	The Americans defeated the Spaniards and occupied Pacific Seaboard
+503.	The Americans were defeated in Central America by the French
+504.	The United States have built no monuments.
+505.	Erik scored 40 pts this epoch. Total: 139
+506.	The game is over.Colin won with 217 points!

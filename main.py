@@ -1,25 +1,35 @@
-from collections import defaultdict
-import pandas
+import analyze
+import constants
 from parse import read_data
-import plotly.express as px
+import os
+import sys
 
-data = read_data()
 
-winning_empires_dict = defaultdict(lambda: 0)
+def main():
+    print(sys.argv)
+    if len(sys.argv) < 3:
+        print('Expected "show/save" then type of analysis')
+        return
 
-for game in data:
-    winner = game["winner"]
-    for empire in game["empires"][winner]:
-        winning_empires_dict[empire] = winning_empires_dict[empire] + 1
+    fig_option = sys.argv[1]
 
-empires = []
-win_count = []
-for key in winning_empires_dict:
-    empires.append(key)
-    win_count.append(winning_empires_dict[key])
+    if fig_option not in ["show", "save"]:
+        print('Expected "show/save" as first option')
+        return
 
-df = pandas.DataFrame({"Empire": empires, "Wins": win_count}).sort_values("Wins")
+    analyze_option = sys.argv[2]
+    data = read_data()
+    fig = analyze.get_fig(analyze_option, data)
 
-fig = px.bar(df, x="Empire", y="Wins")
-fig.write_image("images/test.jpg")
-fig.show()
+    if fig_option == "show":
+        fig.show()
+    elif fig_option == "save":
+        if len(sys.argv) > 3:
+            print("Expected filename to save")
+            return
+        name = sys.argv[2]
+        filepath = os.path.join(constants.IMAGE_FOLDER, name)
+        fig.write_image(filepath)
+
+
+main()

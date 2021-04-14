@@ -10,6 +10,9 @@ Response structure:
         winner: String(winner),
         empires: {
             player: String(empire)[]
+        },
+        points: {
+            player: Number[]
         }
     }, ...
 ]
@@ -22,10 +25,9 @@ def read_data():
     for filename in os.listdir(constants.DATA_FOLDER):
         result = dict(name=os.path.splitext(filename)[0])
         empires = {name: [] for name in constants.PLAYERS}
+        points = {name: [] for name in constants.PLAYERS}
 
         filepath = os.path.join(constants.DATA_FOLDER, filename)
-        print("Reading '%s'" % filepath)
-
         file = open(filepath)
 
         lines = file.readlines()
@@ -42,12 +44,16 @@ def read_data():
                 )
 
                 empires[player].append(empire)
-
+            elif "scored" in line:
+                player = words[1]
+                point = int(words[3])
+                points[player].append(point)
             elif "The game is over" in line:
                 winner = words[4][5:]
                 result["winner"] = winner
 
         result["empires"] = empires
+        result["points"] = points
         results.append(result)
 
     return results

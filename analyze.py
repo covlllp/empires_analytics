@@ -17,6 +17,8 @@ def get_fig(option, data):
         return get_epoch_points(data, direction="max")
     elif option == "epoch_points_min":
         return get_epoch_points(data, direction="min")
+    elif option == "empire_box":
+        return get_box_plot(data)
     else:
         print("Option incorrect")
         return
@@ -65,3 +67,23 @@ def get_epoch_points(data, direction="max"):
         points.append(epoch_dict[epoch])
     df = pandas.DataFrame({"Epoch": epochs, "Points": points}).sort_values("Epoch")
     return px.bar(df, x="Epoch", y="Points")
+
+
+def get_box_plot(data):
+    epochs = [];
+    points = [];
+    empires = [];
+    players = [];
+    for game in data:
+        for player in game["empires"]:
+            for i, empire in enumerate(game["empires"][player]):
+                epoch = i + 1;
+                point = game["points"][player][i]
+                epochs.append(epoch)
+                points.append(point)
+                empires.append("{} - {}".format(epoch, empire))
+                players.append(player)
+
+    df = pandas.DataFrame({"Epoch": epochs, "Points": points, "Empire": empires, "Player": players}).sort_values("Epoch")
+    return px.box(df, x="Empire", y="Points")
+

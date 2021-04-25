@@ -8,13 +8,13 @@ import sys
 def main():
     print(sys.argv)
     if len(sys.argv) < 3:
-        print('Expected "show/save" then type of analysis')
+        print('Expected "show/save/html" then type of analysis')
         return
 
     fig_option = sys.argv[1]
 
-    if fig_option not in ["show", "save"]:
-        print('Expected "show/save" as first option')
+    if fig_option not in ["show", "save", "html"]:
+        print('Expected "show/save/html" as first option')
         return
 
     analyze_option = sys.argv[2]
@@ -23,6 +23,8 @@ def main():
 
     if fig_option == "show":
         fig.show()
+    elif fig_option == "html":
+        fig.write_html("index.html")
     elif fig_option == "save":
         if len(sys.argv) > 3:
             print("Expected filename to save")

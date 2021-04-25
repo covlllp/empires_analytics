@@ -18,7 +18,9 @@ def get_fig(option, data):
     elif option == "epoch_points_min":
         return get_epoch_points(data, direction="min")
     elif option == "empire_box":
-        return get_box_plot(data)
+        return get_basic_box_plot(data)
+    elif option =="empire_epoch_ratio":
+        return get_empire_epoch_ratio(data)
     else:
         print("Option incorrect")
         return
@@ -69,7 +71,7 @@ def get_epoch_points(data, direction="max"):
     return px.bar(df, x="Epoch", y="Points")
 
 
-def get_box_plot(data):
+def get_basic_df(data):
     epochs = [];
     points = [];
     empires = [];
@@ -84,6 +86,21 @@ def get_box_plot(data):
                 empires.append("{} - {}".format(epoch, empire))
                 players.append(player)
 
-    df = pandas.DataFrame({"Epoch": epochs, "Points": points, "Empire": empires, "Player": players}).sort_values("Epoch")
+    df = pandas.DataFrame({"Epoch": epochs, "Points": points, "Empire": empires, "Player": players})
+    return df
+
+
+def get_basic_box_plot(data):
+    df = get_basic_df(data)
     return px.box(df, x="Empire", y="Points")
 
+
+def get_empire_epoch_ratio(data):
+    df = get_basic_df(data)
+    avg_epoch = df.groupby(['Epoch']).mean()
+    avg_epoch = avg_epoch.to_dict()["Points"]
+
+    df["Epoch Average"] = df["Epoch"].map(avg_epoch)
+    df["Point Ratio"] = df["Points"] / df["Epoch Average"]
+
+    return px.box(df.sort_values("Epoch"), x="Empire", y="Point Ratio")

@@ -26,10 +26,10 @@ def main():
     elif fig_option == "html":
         fig.write_html("index.html")
     elif fig_option == "save":
-        if len(sys.argv) > 3:
+        if len(sys.argv) < 4:
             print("Expected filename to save")
             return
-        name = sys.argv[2]
+        name = sys.argv[3]
         filepath = os.path.join(constants.IMAGE_FOLDER, name)
         fig.write_image(filepath)
 

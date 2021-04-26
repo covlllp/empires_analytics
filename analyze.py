@@ -19,8 +19,10 @@ def get_fig(option, data):
         return get_epoch_points(data, direction="min")
     elif option == "empire_box":
         return get_basic_box_plot(data)
-    elif option =="empire_epoch_ratio":
+    elif option == "empire_epoch_ratio":
         return get_empire_epoch_ratio(data)
+    elif option == "empire_potential":
+        return get_empire_potential(data)
     else:
         print("Option incorrect")
         return
@@ -44,7 +46,8 @@ def get_winning_empires(data, epoch=None):
         empires.append(key)
         win_count.append(winning_empires_dict[key])
 
-    df = pandas.DataFrame({"Empire": empires, "Wins": win_count}).sort_values("Wins")
+    df = pandas.DataFrame(
+        {"Empire": empires, "Wins": win_count}).sort_values("Wins")
     fig = px.bar(df, x="Empire", y="Wins")
     return fig
 
@@ -67,26 +70,28 @@ def get_epoch_points(data, direction="max"):
         epochs.append(epoch)
         epoch_dict = min_epoch_dict if direction == "min" else max_epoch_dict
         points.append(epoch_dict[epoch])
-    df = pandas.DataFrame({"Epoch": epochs, "Points": points}).sort_values("Epoch")
+    df = pandas.DataFrame(
+        {"Epoch": epochs, "Points": points}).sort_values("Epoch")
     return px.bar(df, x="Epoch", y="Points")
 
 
 def get_basic_df(data):
-    epochs = [];
-    points = [];
-    empires = [];
-    players = [];
+    epochs = []
+    points = []
+    empires = []
+    players = []
     for game in data:
         for player in game["empires"]:
             for i, empire in enumerate(game["empires"][player]):
-                epoch = i + 1;
+                epoch = i + 1
                 point = game["points"][player][i]
                 epochs.append(epoch)
                 points.append(point)
                 empires.append("{} - {}".format(epoch, empire))
                 players.append(player)
 
-    df = pandas.DataFrame({"Epoch": epochs, "Points": points, "Empire": empires, "Player": players})
+    df = pandas.DataFrame(
+        {"Epoch": epochs, "Points": points, "Empire": empires, "Player": players})
     return df
 
 
@@ -104,3 +109,52 @@ def get_empire_epoch_ratio(data):
     df["Point Ratio"] = df["Points"] / df["Epoch Average"]
 
     return px.box(df.sort_values("Epoch"), x="Empire", y="Point Ratio")
+
+
+def get_empire_potential(data):
+    game = data[0]
+    empire = None
+    player = None
+    epoch = 1
+    players_in_epoch = 5
+    """
+    board = {
+        territory: {
+            empire: empire
+            player: player
+        }
+    }
+
+    scores = {
+        territory: score
+    }
+    """
+    board = {}
+    scores = defaultdict(lambda: 0)
+
+    def score_board(player, board):
+        empires_to_score = {}
+        for territory in board:
+            if board[territory]["player"] == player:
+                empire = board[territory]["empire"]
+                empires_to_score[empire] = True
+        for empire in empires_to_score:
+            scores[empire] = scores[empire] + 1
+
+    for move in game["moves"]:
+        if move["type"] == "start":
+            players_in_epoch -= 1
+            empire = move["empire"]
+            player = move["player"]
+        elif move["type"] == "end":
+            score_board(player, board)
+            if players_in_epoch == 0:
+                players_in_epoch = 5
+                epoch += 1
+        elif move["type"] == "move":
+            action = move["action"]
+            territory = move["territory"]
+            if action == "start" or action == "attack" or action == "tie" or action == "expand":
+                board[territory] = dict(empire=empire, player=player)
+
+    print scores

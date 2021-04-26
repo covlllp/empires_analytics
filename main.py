@@ -22,6 +22,7 @@ def main():
     fig = analyze.get_fig(analyze_option, data)
 
     if fig_option == "show":
+        return
         fig.show()
     elif fig_option == "html":
         fig.write_html("index.html")
